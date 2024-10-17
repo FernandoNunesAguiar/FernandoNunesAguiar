@@ -1,4 +1,4 @@
-<h2 align="left">Hello there and welcome</h2>
+<h1 align="left">Hello there and welcome</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">My Stats</h2>
+<h1 align="left">My Stats</h2>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<h2 align="left">I have skills in</h2>
+<h1 align="left">I have skills in</h2>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<h2 align="left">You can contact me at</h2>
+<h1 align="left">You can contact me at</h2>
 
 ###
 
