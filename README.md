@@ -19,7 +19,7 @@
 
 ###
 
-<h1 align="left">I have skills in</h2>
+<h1 align="left">Stack</h2>
 
 ###
 
