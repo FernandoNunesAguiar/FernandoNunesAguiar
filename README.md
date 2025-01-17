@@ -37,7 +37,7 @@
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
-  <img src="https://skillicons.dev/icons?i=react-native" height="45" alt="react native logo"  />
+  <img src="https://skillicons.dev/icons?i=reactnative" height="45" alt="react native logo"  />
   <img width="15" />
 </div>
 
