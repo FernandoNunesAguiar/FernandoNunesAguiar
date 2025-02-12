@@ -41,7 +41,7 @@
         <br>MySQL
      </td>
      <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="50" width="60" alt="nodejs logo"  />
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="55" width="55" alt="nodejs logo"  />
       <br>Node.js
      </td>
     </tr>
