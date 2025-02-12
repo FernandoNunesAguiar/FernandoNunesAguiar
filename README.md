@@ -45,7 +45,7 @@
       <br>Node.js
      </td>
     </tr>
-    <tr
+    <tr>
      <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="55" width="55" alt="html5 logo"  />
       <br>HTML
