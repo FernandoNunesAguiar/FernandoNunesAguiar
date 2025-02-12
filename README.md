@@ -44,6 +44,8 @@
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="45" width="55" alt="nodejs logo"  />
       <br>Node.js
      </td>
+    </tr>
+    <tr
      <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="55" width="55" alt="html5 logo"  />
       <br>HTML
@@ -60,6 +62,10 @@
        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="55" width="55" alt="postgres logo" />
        <br>PostgreSQL
      </td>
+    <td align="center" width="96"> 
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="55" width="55" alt="tailwind logo"/>
+      <br>Tailwind CSS
+    </td>
   </tr>
 </table>
 
