@@ -24,9 +24,10 @@
 
 <table align ="center" width="96">
   <tr>
-    <td align="center" width="96">
-      <div width="55" height="65" style="object-fit: cover">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="100%" height="100%" alt="javascript logo"  />
+      <td align="center" width="96">
+      <div style="width: 55px; height: 65px; overflow: hidden;">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript logo" 
+             style="width: 100%; height: 100%; object-fit: cover;">
       </div>
       <br>JavaScript
     </td>
