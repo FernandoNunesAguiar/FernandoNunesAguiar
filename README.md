@@ -41,7 +41,7 @@
          <br>MySQL
      </td>
      <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="60" width="65" alt="nodejs logo"  />
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="55" width="55" alt="nodejs logo"  />
        <br>Node.ss
      </td>
      <td align="center" width="96">
@@ -49,7 +49,7 @@
        <br>HTML
      </td>
      <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="55" height="55" alt="css logo"/>
+        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" width="55" height="55" alt="css logo"/>
        <br>CSS
      </td>
      <td align="center" width="96">
@@ -57,7 +57,7 @@
        <br>Next.js
      </td>
      <td align="center" width="96">
-       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" height="55" width="45" alt="postgres logo" />
+       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="55" width="45" alt="postgres logo" />
        <br>PostgreSQL
      </td>
   </tr>
