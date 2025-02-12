@@ -41,7 +41,7 @@
          <br>MySQL
      </td>
      <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="55" width="55" alt="nodejs logo"  />
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="55" width="65" alt="nodejs logo"  />
        <br>Node.Js
      </td>
      <td align="center" width="96">
@@ -49,12 +49,8 @@
        <br>HTML
      </td>
      <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="icon" width="55" height="55" />
+        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="icon" width="55" height="55" />
        <br>CSS
-     </td>
-     <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="45" alt="react native logo"  />
-       <br>React Native
      </td>
   </tr>
 </table>
