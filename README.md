@@ -8,7 +8,8 @@
 
 ###
 
-<h1 align="left">My Stats</h2>
+
+<h1 align="center">My Stats</h2>
 
 ###
 
@@ -19,11 +20,11 @@
 
 ###
 
-<h1 align="left">Stack</h2>
+<h1 align="center">Stack</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
