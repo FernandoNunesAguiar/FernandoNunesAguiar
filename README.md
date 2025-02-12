@@ -23,25 +23,37 @@
 <h1 align="center">Stack</h2>
 
 ###
-
-<div align="center">
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" height="45" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
-  <img src="https://skillicons.dev/icons?i=react_native" height="45" alt="react native logo"  />
-  <img width="15" />
-</div>
-
+<table align ="center" width="96">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="70" alt="javascript logo"  />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21~bgwhite.svg" height="45" alt="react logo"  />
+      <br>React
+    </td>
+     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" height="45" alt="java logo"  />
+      <br>Java
+     </td>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
+     </td>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
+     </td>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
+     </td>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
+     </td>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react_native" height="45" alt="react native logo"  />
+     </td>
+  </tr>
+</table>
 ###
 
 <h1 align="left">You can contact me at</h2>
