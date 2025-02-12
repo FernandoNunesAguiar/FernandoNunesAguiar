@@ -25,7 +25,9 @@
 <table align ="center" width="96">
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65 alt="javascript logo"  />
+      <div max-width="55" max-height="65">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="100%" height="100%" alt="javascript logo"  />
+      </div>
       <br>JavaScript
     </td>
     <td align="center" width="96">
