@@ -25,7 +25,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" height="45" alt="javascript logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
   <img width="15" />
