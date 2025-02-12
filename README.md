@@ -29,7 +29,7 @@
       <br>Javascript
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21~bgwhite.svg" width="55" height="55  alt="react logo"  />
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="55" height="55  alt="react logo"  />
       <br>React
     </td>
      <td align="center" width="96">
@@ -38,18 +38,23 @@
      </td>
      <td align="center" width="96">
        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55"
+         <br>MySQL
      </td>
      <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="55" width="55" alt="nodejs logo"  />
+       <br>Node.Js
      </td>
      <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="55" width="55" alt="html5 logo"  />
+       <br>HTML
      </td>
      <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
+        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="icon" width="55" height="55" />
+       <br>CSS
      </td>
      <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react_native" height="45" alt="react native logo"  />
+      <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="45" alt="react native logo"  />
+       <br>React Native
      </td>
   </tr>
 </table>
