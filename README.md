@@ -25,7 +25,7 @@
 <table align ="center" width="96">
   <tr>
       <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="55" height="55  style="border-radius: 10px" alt="js logo"  />
+      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="45" height="45  style="border-radius: 10px" alt="js logo"  />
       <br>JavaScript
     </td>
     <td align="center" width="96">
@@ -41,7 +41,7 @@
         <br>MySQL
      </td>
      <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="45" width="60" alt="nodejs logo"  />
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="40" width="60" alt="nodejs logo"  />
       <br>Node.js
      </td>
     </tr>
