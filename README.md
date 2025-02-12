@@ -37,24 +37,24 @@
       <br>Java
      </td>
      <td align="center" width="96">
-       <img src="https://techstack-generator.vercel.app/mysql-icon.svg"  width="55" height="55 alt="mysql logo""
-         <br>MySQL
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg"  width="55" height="55 alt="mysql logo""
+        <br>MySQL
      </td>
      <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="45" width="55" alt="nodejs logo"  />
-       <br>Node.js
+      <br>Node.js
      </td>
      <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="55" width="55" alt="html5 logo"  />
-       <br>HTML
+      <br>HTML
      </td>
      <td align="center" width="96">
         <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" width="55" height="55" alt="css logo"/>
-       <br>CSS
+        <br>CSS
      </td>
      <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" height="55" width="55" alt="nextjs logo" />
-       <br>Next.js
+      <br>Next.js
      </td>
      <td align="center" width="96">
        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="55" width="55" alt="postgres logo" />
