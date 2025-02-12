@@ -25,14 +25,11 @@
 <table align ="center" width="96">
   <tr>
       <td align="center" width="96">
-      <div style="width: 55px; height: 65px; overflow: hidden;">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript logo" 
-             style="width: 100%; height: 100%; object-fit: cover;">
-      </div>
+      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="55" height="55  style="border-radius: 10px" alt="js logo"  />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65  alt="react logo"  />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55  alt="react logo"  />
       <br>React
     </td>
      <td align="center" width="96">
