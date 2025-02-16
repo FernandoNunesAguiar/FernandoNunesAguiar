@@ -33,8 +33,8 @@
       <br>React
     </td>
      <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55 alt="java logo"  />
-      <br>Java
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55 alt="docker logo"  />
+      <br>Docker
      </td>
      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg"  width="55" height="55 alt="mysql logo""
