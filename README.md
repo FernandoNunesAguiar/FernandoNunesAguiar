@@ -55,7 +55,7 @@
         <br>CSS
      </td>
      <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" height="55" width="55" alt="nextjs logo" />
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="55" width="55" alt="nextjs logo" />
       <br>Next.js
      </td>
      <td align="center" width="96">
